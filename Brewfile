@@ -34,6 +34,7 @@ install readline
 install reattach-to-user-namespace
 install sqlite
 install tmux
+install vim
 install zsh
 
 # App Store applications
