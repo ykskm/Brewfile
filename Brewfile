@@ -11,6 +11,7 @@ cask install evernote
 cask install google-chrome
 cask install google-japanese-ime
 cask install iterm2
+cask install java
 cask install karabiner
 cask install seil
 cask install skim
@@ -22,7 +23,11 @@ cask install xtrafinder
 tap rcmdnk/file
 install brew-file
 
+## supermomonga/splhack
+tap supermomonga/splhack
+
 # Other Homebrew packages
+install coreutils
 install gdbm
 install git
 install libevent
