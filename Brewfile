@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install alfred
+cask install atom
 cask install bettertouchtool
 cask install cheatsheet
 cask install clipmenu
@@ -49,6 +50,7 @@ install readline
 install reattach-to-user-namespace
 install sqlite
 install tmux
+install unbound
 install wget
 install zsh
 
@@ -63,4 +65,5 @@ appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Simplenote
 appstore Xcode
